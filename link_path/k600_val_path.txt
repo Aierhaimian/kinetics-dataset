@@ -1,0 +1,600 @@
+https://s3.amazonaws.com/kinetics/600/val/abseiling.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/acting in play.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/adjusting glasses.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/air drumming.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/alligator wrestling.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/answering questions.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/applauding.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/applying cream.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/archaeological excavation.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/archery.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/arguing.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/arm wrestling.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/arranging flowers.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/assembling bicycle.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/assembling computer.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/attending conference.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/auctioning.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/backflip (human).tar.gz
+https://s3.amazonaws.com/kinetics/600/val/baking cookies.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/bandaging.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/barbequing.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/bartending.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/base jumping.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/bathing dog.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/battle rope training.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/beatboxing.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/bee keeping.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/belly dancing.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/bench pressing.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/bending back.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/bending metal.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/biking through snow.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/blasting sand.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/blowdrying hair.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/blowing bubble gum.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/blowing glass.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/blowing leaves.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/blowing nose.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/blowing out candles.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/bobsledding.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/bodysurfing.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/bookbinding.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/bottling.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/bouncing on bouncy castle.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/bouncing on trampoline.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/bowling.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/braiding hair.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/breading or breadcrumbing.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/breakdancing.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/breaking boards.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/breathing fire.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/brush painting.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/brushing hair.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/brushing teeth.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/building cabinet.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/building lego.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/building sandcastle.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/building shed.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/bull fighting.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/bulldozing.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/bungee jumping.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/burping.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/busking.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/calculating.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/calligraphy.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/canoeing or kayaking.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/capoeira.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/capsizing.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/card stacking.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/card throwing.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/carrying baby.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/cartwheeling.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/carving ice.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/carving pumpkin.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/casting fishing line.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/catching fish.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/catching or throwing baseball.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/catching or throwing frisbee.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/catching or throwing softball.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/celebrating.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/changing gear in car.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/changing oil.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/changing wheel (not on bike).tar.gz
+https://s3.amazonaws.com/kinetics/600/val/checking tires.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/cheerleading.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/chewing gum.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/chiseling stone.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/chiseling wood.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/chopping meat.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/chopping vegetables.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/chopping wood.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/clam digging.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/clapping.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/clay pottery making.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/clean and jerk.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/cleaning gutters.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/cleaning pool.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/cleaning shoes.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/cleaning toilet.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/cleaning windows.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/climbing a rope.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/climbing ladder.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/climbing tree.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/coloring in.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/combing hair.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/contact juggling.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/contorting.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/cooking egg.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/cooking on campfire.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/cooking sausages (not on barbeque).tar.gz
+https://s3.amazonaws.com/kinetics/600/val/cooking scallops.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/cosplaying.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/counting money.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/country line dancing.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/cracking back.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/cracking knuckles.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/cracking neck.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/crawling baby.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/crossing eyes.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/crossing river.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/crying.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/cumbia.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/curling (sport).tar.gz
+https://s3.amazonaws.com/kinetics/600/val/curling hair.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/cutting apple.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/cutting nails.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/cutting orange.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/cutting pineapple.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/cutting watermelon.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/dancing ballet.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/dancing charleston.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/dancing gangnam style.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/dancing macarena.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/deadlifting.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/decorating the christmas tree.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/delivering mail.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/dining.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/directing traffic.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/disc golfing.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/diving cliff.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/docking boat.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/dodgeball.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/doing aerobics.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/doing jigsaw puzzle.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/doing laundry.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/doing nails.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/drawing.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/dribbling basketball.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/drinking shots.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/driving car.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/driving tractor.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/drooling.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/drop kicking.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/drumming fingers.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/dumpster diving.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/dunking basketball.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/dyeing eyebrows.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/dyeing hair.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/eating burger.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/eating cake.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/eating carrots.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/eating chips.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/eating doughnuts.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/eating hotdog.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/eating ice cream.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/eating spaghetti.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/eating watermelon.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/egg hunting.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/embroidering.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/exercising with an exercise ball.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/extinguishing fire.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/faceplanting.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/falling off bike.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/falling off chair.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/feeding birds.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/feeding fish.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/feeding goats.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/fencing (sport).tar.gz
+https://s3.amazonaws.com/kinetics/600/val/fidgeting.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/finger snapping.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/fixing bicycle.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/fixing hair.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/flint knapping.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/flipping pancake.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/fly tying.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/flying kite.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/folding clothes.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/folding napkins.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/folding paper.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/front raises.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/frying vegetables.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/geocaching.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/getting a haircut.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/getting a piercing.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/getting a tattoo.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/giving or receiving award.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/gold panning.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/golf chipping.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/golf driving.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/golf putting.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/gospel singing in church.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/grinding meat.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/grooming dog.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/grooming horse.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/gymnastics tumbling.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/hammer throw.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/hand washing clothes.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/head stand.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/headbanging.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/headbutting.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/high jump.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/high kick.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/historical reenactment.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/hitting baseball.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/hockey stop.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/holding snake.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/home roasting coffee.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/hopscotch.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/hoverboarding.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/huddling.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/hugging (not baby).tar.gz
+https://s3.amazonaws.com/kinetics/600/val/hugging baby.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/hula hooping.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/hurdling.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/hurling (sport).tar.gz
+https://s3.amazonaws.com/kinetics/600/val/ice climbing.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/ice fishing.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/ice skating.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/ice swimming.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/inflating balloons.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/installing carpet.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/ironing hair.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/ironing.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/javelin throw.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/jaywalking.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/jetskiing.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/jogging.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/juggling balls.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/juggling fire.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/juggling soccer ball.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/jumping bicycle.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/jumping into pool.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/jumping jacks.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/jumpstyle dancing.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/karaoke.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/kicking field goal.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/kicking soccer ball.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/kissing.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/kitesurfing.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/knitting.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/krumping.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/land sailing.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/laughing.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/lawn mower racing.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/laying bricks.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/laying concrete.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/laying stone.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/laying tiles.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/leatherworking.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/licking.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/lifting hat.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/lighting fire.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/lock picking.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/long jump.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/longboarding.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/looking at phone.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/luge.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/lunge.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/making a cake.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/making a sandwich.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/making balloon shapes.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/making bubbles.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/making cheese.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/making horseshoes.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/making jewelry.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/making paper aeroplanes.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/making pizza.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/making snowman.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/making sushi.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/making tea.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/making the bed.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/marching.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/marriage proposal.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/massaging back.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/massaging feet.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/massaging legs.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/massaging neck.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/massaging person's head.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/milking cow.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/moon walking.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/mopping floor.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/mosh pit dancing.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/motorcycling.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/mountain climber (exercise).tar.gz
+https://s3.amazonaws.com/kinetics/600/val/moving furniture.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/mowing lawn.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/mushroom foraging.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/needle felting.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/news anchoring.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/opening bottle (not wine).tar.gz
+https://s3.amazonaws.com/kinetics/600/val/opening door.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/opening present.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/opening refrigerator.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/opening wine bottle.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/packing.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/paragliding.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/parasailing.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/parkour.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/passing American football (in game).tar.gz
+https://s3.amazonaws.com/kinetics/600/val/passing american football (not in game).tar.gz
+https://s3.amazonaws.com/kinetics/600/val/passing soccer ball.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/peeling apples.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/peeling potatoes.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/person collecting garbage.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/petting animal (not cat).tar.gz
+https://s3.amazonaws.com/kinetics/600/val/petting cat.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/photobombing.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/photocopying.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/picking fruit.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/pillow fight.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/pinching.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/pirouetting.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/planing wood.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/planting trees.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/plastering.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/playing accordion.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/playing badminton.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/playing bagpipes.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/playing basketball.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/playing bass guitar.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/playing beer pong.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/playing blackjack.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/playing cello.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/playing chess.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/playing clarinet.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/playing controller.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/playing cricket.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/playing cymbals.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/playing darts.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/playing didgeridoo.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/playing dominoes.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/playing drums.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/playing field hockey.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/playing flute.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/playing gong.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/playing guitar.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/playing hand clapping games.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/playing harmonica.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/playing harp.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/playing ice hockey.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/playing keyboard.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/playing kickball.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/playing laser tag.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/playing lute.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/playing maracas.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/playing marbles.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/playing monopoly.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/playing netball.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/playing ocarina.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/playing organ.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/playing paintball.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/playing pan pipes.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/playing piano.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/playing pinball.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/playing ping pong.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/playing poker.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/playing polo.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/playing recorder.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/playing rubiks cube.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/playing saxophone.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/playing scrabble.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/playing squash or racquetball.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/playing tennis.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/playing trombone.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/playing trumpet.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/playing ukulele.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/playing violin.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/playing volleyball.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/playing with trains.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/playing xylophone.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/poking bellybutton.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/pole vault.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/polishing metal.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/popping balloons.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/pouring beer.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/preparing salad.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/presenting weather forecast.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/pull ups.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/pumping fist.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/pumping gas.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/punching bag.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/punching person (boxing).tar.gz
+https://s3.amazonaws.com/kinetics/600/val/push up.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/pushing car.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/pushing cart.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/pushing wheelbarrow.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/pushing wheelchair.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/putting in contact lenses.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/putting on eyeliner.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/putting on foundation.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/putting on lipstick.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/putting on mascara.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/putting on sari.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/putting on shoes.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/raising eyebrows.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/reading book.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/reading newspaper.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/recording music.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/repairing puncture.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/riding a bike.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/riding camel.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/riding elephant.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/riding mechanical bull.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/riding mule.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/riding or walking with horse.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/riding scooter.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/riding snow blower.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/riding unicycle.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/ripping paper.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/roasting marshmallows.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/roasting pig.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/robot dancing.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/rock climbing.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/rock scissors paper.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/roller skating.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/rolling pastry.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/rope pushdown.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/running on treadmill.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/sailing.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/salsa dancing.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/sanding floor.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/sausage making.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/sawing wood.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/scrambling eggs.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/scrapbooking.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/scrubbing face.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/scuba diving.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/separating eggs.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/setting table.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/sewing.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/shaking hands.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/shaking head.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/shaping bread dough.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/sharpening knives.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/sharpening pencil.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/shaving head.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/shaving legs.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/shearing sheep.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/shining flashlight.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/shining shoes.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/shooting basketball.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/shooting goal (soccer).tar.gz
+https://s3.amazonaws.com/kinetics/600/val/shopping.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/shot put.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/shoveling snow.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/shucking oysters.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/shuffling cards.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/shuffling feet.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/side kick.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/sign language interpreting.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/singing.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/sipping cup.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/situp.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/skateboarding.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/ski jumping.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/skiing crosscountry.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/skiing mono.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/skiing slalom.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/skipping rope.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/skipping stone.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/skydiving.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/slacklining.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/slapping.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/sled dog racing.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/sleeping.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/smashing.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/smelling feet.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/smoking hookah.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/smoking pipe.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/smoking.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/snatch weight lifting.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/sneezing.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/snorkeling.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/snowboarding.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/snowkiting.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/snowmobiling.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/somersaulting.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/spelunking.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/spinning poi.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/spray painting.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/springboard diving.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/square dancing.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/squat.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/standing on hands.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/staring.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/steer roping.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/sticking tongue out.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/stomping grapes.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/stretching arm.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/stretching leg.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/sucking lolly.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/surfing crowd.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/surfing water.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/sweeping floor.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/swimming backstroke.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/swimming breast stroke.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/swimming butterfly stroke.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/swimming front crawl.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/swing dancing.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/swinging baseball bat.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/swinging on something.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/sword fighting.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/sword swallowing.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/tackling.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/tagging graffiti.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/tai chi.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/talking on cell phone.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/tango dancing.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/tap dancing.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/tapping guitar.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/tapping pen.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/tasting beer.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/tasting food.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/tasting wine.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/testifying.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/texting.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/threading needle.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/throwing axe.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/throwing ball (not baseball or American football).tar.gz
+https://s3.amazonaws.com/kinetics/600/val/throwing discus.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/throwing knife.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/throwing snowballs.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/throwing tantrum.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/throwing water balloon.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/tickling.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/tie dying.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/tightrope walking.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/tiptoeing.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/tobogganing.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/tossing coin.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/training dog.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/trapezing.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/trimming or shaving beard.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/trimming shrubs.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/trimming trees.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/triple jump.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/twiddling fingers.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/tying bow tie.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/tying knot (not on a tie).tar.gz
+https://s3.amazonaws.com/kinetics/600/val/tying necktie.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/tying shoe laces.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/unboxing.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/unloading truck.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/using a microscope.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/using a paint roller.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/using a power drill.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/using a sledge hammer.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/using a wrench.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/using atm.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/using bagging machine.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/using circular saw.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/using inhaler.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/using puppets.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/using remote controller (not gaming).tar.gz
+https://s3.amazonaws.com/kinetics/600/val/using segway.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/vacuuming floor.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/visiting the zoo.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/wading through mud.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/wading through water.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/waiting in line.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/waking up.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/walking the dog.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/walking through snow.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/washing dishes.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/washing feet.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/washing hair.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/washing hands.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/watching tv.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/water skiing.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/water sliding.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/watering plants.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/waving hand.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/waxing back.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/waxing chest.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/waxing eyebrows.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/waxing legs.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/weaving basket.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/weaving fabric.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/welding.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/whistling.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/windsurfing.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/winking.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/wood burning (art).tar.gz
+https://s3.amazonaws.com/kinetics/600/val/wrapping present.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/wrestling.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/writing.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/yarn spinning.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/yawning.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/yoga.tar.gz
+https://s3.amazonaws.com/kinetics/600/val/zumba.tar.gz

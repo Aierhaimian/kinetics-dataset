@@ -1,0 +1,30 @@
+# Kinetics700-2020 dataset
+
+* [A Short Note on the Kinetics-700-2020 Human Action Dataset](https://arxiv.org/abs/2010.10864) 
+* [Dataset Website](https://deepmind.com/research/open-source/kinetics)
+
+### Statistics
+* Training set: 
+    - 536699 videos downloaded / 545793 videos (from report)
+    - 700 tar files, each for one action class
+    - original size 603GB
+
+* Validation set:
+    - 33966 videos downloaded / 34256 videos (from report)
+    - 700 tar files, each for one action class
+    - original size 48GB
+
+* Testing set:
+    - 64535 videos downloaded / 67858 videos (from report)
+    - 50 tar files
+    - original size 59GB
+
+
+### Download Logs
+- Kinetics700-2020 is approximately a superset of the original Kinetics700, with some new videos added and some old videos deliberately removed due to inaccurate annotation.
+- Downloaded Kinetics700-2020 version in Sept 2020, by youtube-dl. 
+- Using the downloading script from ActivityNet (https://github.com/activitynet/ActivityNet/blob/master/Crawler/Kinetics/download.py), with minor modifications.
+- About 7000 unavailable videos in Sept 2020 are downloaded in Dec 2019, from the original Kinetics700 version.
+- Provided annotation files of **downloaded** videos in `/annotations/{train,val,test}.csv`
+- Provided [AVA-Kinetics and Countix](https://deepmind.com/research/open-source/kinetics) original annotation files in `/annotations/`
+
